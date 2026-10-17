@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//LESS optimised 
+//LESS OPTIMISED
 void sort01(int arr[], int n)
 {
     int i = 0;
