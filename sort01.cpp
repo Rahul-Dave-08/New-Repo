@@ -27,7 +27,7 @@ void sort01(int arr[], int n)
 }
 
 
-// MORE optimised 
+// MORE OPTIMISED
 void sort01(int arr[], int n)
 {
     int i = 0;
